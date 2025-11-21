@@ -2,7 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 void main() {
   IO.println(String.format("Hello and welcome!"));
-    System.out.println("println dwesde master");
+    System.out.println("println desde master");
 
   for (int i = 1; i <= 6; i++) {
     IO.println("i = " + i);
