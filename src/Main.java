@@ -10,4 +10,8 @@ void main() {
   if (true) {//nunca poner if true
     IO.println("Hello desde develop");
   }
+  int j =0;
+  while (j <10) {
+      System.out.println("j = " +j);
+  }
 }
