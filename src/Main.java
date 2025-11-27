@@ -11,7 +11,7 @@ void main() {
     IO.println("Hello desde develop");
   }
   int j =0;
-  while (j <10) {
+  while (j <20) {
       System.out.println("j = " +j);
   }
 }
